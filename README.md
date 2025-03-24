@@ -30,4 +30,4 @@ The foundation of this project is a dataset curated from Kaggle but downloaded t
 
 ### Conclusion
 
-The **AirBnB Tableau Project** aims to show a visual to the interested audience on the business of the company AirBnB in the year 2016. The demand of AirBnBs in 2016 is based on the price and the revenue the company collected from the AirBnB houses. 
+The **AirBnB Tableau Project** aims to show a visual to the interested audience on the business of the company AirBnB in the year 2016. We are calculating the demand of AirBnBs in 2016 based on the price and the revenue the company collected from the AirBnB houses. 
